@@ -246,6 +246,7 @@ img { display: block; max-width: 100%; }
 .client-name { font-size: 14px; font-weight: 600; }
 .client-business { color: var(--dim); font-size: 10px; letter-spacing: 0.06em; }
 .client-card-footer .text-link { margin-top: 0; }
+.client-card + .client-card { margin-top: 18px; }
 
 /* --- PERCORSO --- */
 
