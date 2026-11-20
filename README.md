@@ -14,12 +14,11 @@ https://marcopirola.pages.dev/
 - Featured project: Outreach, a personal tool built to track
   business outreach (contacts, status, follow-ups)
 - Other projects: demo sites built for practice
-- Real client work section, including a real testimonial
-- Timeline of my learning path
+- Real client work section, with real testimonials
 - Direct WhatsApp contact, no forms
 
 ## About
-I'm 13 years old and learning to build real software, one project
+I'm 14 years old and learning to build real software, one project
 at a time. This site collects what I've built so far, including
 work delivered to real clients.
 
